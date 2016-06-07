@@ -62,7 +62,7 @@ Hackathon do Be MEAN
 - O que os investidores querem ouvir?
 
 ##7. Tipos de investimentos
-> Módulo dedicado para demonstrar as diferenças e como funciona os investimentos
+> Módulo dedicado para demonstrar as diferenças e tipos de investimentos
 
 - Próprio
 - Investimento anjo
