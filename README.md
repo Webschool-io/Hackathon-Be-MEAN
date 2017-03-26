@@ -1,7 +1,7 @@
 # Hackathon-Be-MEAN
 Hackathon do Be MEAN
 
-##1. Introdução
+## 1. Introdução
 > Módulo dedicado para apresentação do curso e contextualização do cenário atual de startups.
 
 - Apresentação e agenda do curso
@@ -15,7 +15,7 @@ Hackathon do Be MEAN
 - Vesting
 - Time
 
-##2. Mercado
+## 2. Mercado
 > Módulo dedicado para contextualização do ambiente e definição de mercado
 
 - Tipos de mercado
@@ -23,7 +23,7 @@ Hackathon do Be MEAN
 - Concorrência
 - Diferenciais competitivos
 
-##3. Business Model Canvas (Canvas)
+## 3. Business Model Canvas (Canvas)
 > Módulo dedicado para explicação e construção do canvas.
 
 - O que é o canvas?
@@ -39,14 +39,14 @@ Hackathon do Be MEAN
 - Estrutura de custos
 - Fluxo de receita
 
-##4. Validação
+## 4. Validação
 > Módulo dedicado para demonstrar a importância da validação como forma de economizar recursos.
 
 - Porque validar?
 - Aprendizagem contínua
 - MVP
 
-##5. Crescimento
+## 5. Crescimento
 > Módulo dedicado para demonstrar a importância de crescer de forma rápida e escalável.
 
 - Importância do crescimento constante
@@ -54,14 +54,14 @@ Hackathon do Be MEAN
 - Métricas
 - Growth hacking
 
-##6. Pitch
+## 6. Pitch
 > Módulo dedicado para criação do pitch
 
 - O que é?
 - Como fazer?
 - O que os investidores querem ouvir?
 
-##7. Tipos de investimentos
+## 7. Tipos de investimentos
 > Módulo dedicado para demonstrar as diferenças e tipos de investimentos
 
 - Próprio
